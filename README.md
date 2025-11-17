@@ -1,4 +1,4 @@
-# Deep_learning
+<h1>Deep_learning</h1>
+<br>
+A branch of machine learning that uses multi-layer neural networks to automatically learn complex patterns from large amounts of data.</br>
 
-A type of machine learning based on artificial neural networks in which multiple layers of processing 
-are used to extract progressively higher level features from data.
